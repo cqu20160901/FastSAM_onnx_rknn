@@ -12,3 +12,7 @@ FastSAM_rknn：rknn模型、测试（量化）图像、测试结果、onnx2rknn�
 # 测试结果
 
 ![images](https://github.com/cqu20160901/FastSAM_onnx_rknn/blob/main/FastSAM_onnx/test_onnx_result.jpg)
+
+
+# C++ 代码参考
+[【C++ 代码】](https://github.com/cqu20160901/FastSAM_rknn_Cplusplus)
